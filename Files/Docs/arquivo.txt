@@ -1,0 +1,4 @@
+Arquivo criado para um programa
+Utilizado em: LeituraDeArquivos.java
+
+Ass: Fernando H. Filter 22/06/2020
