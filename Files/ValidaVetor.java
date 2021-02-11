@@ -18,7 +18,7 @@ public class ValidaVetor{
     
       numero = Entrada.leiaInt("Informe um numero maior que zero");
       if(numero > 0){
-        // Percorrer o vetor para ver se o numero ja est� presente nele
+        // Percorrer o vetor para ver se o numero ja esta presente nele
         for(int i = 0; i < vetor.length; i++){
           if(numero == vetor[i]){
             rep = true;
@@ -33,7 +33,7 @@ public class ValidaVetor{
         rep = false;
         
       }else{
-        System.out.println("Voce informou um numero inv�lido");
+        System.out.println("Voce informou um numero invalido");
       }
       
     }
