@@ -1,2 +1,2 @@
 # Java-Univates
- Primeiros arquivos criados estudando Engenharia de Software na Univates
+ ☕ Primeiros arquivos criados em **Java** estudando na *[Univates](https://www.univates.br/)*
